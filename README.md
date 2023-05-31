@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suksham</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+[![](https://visitcount.itsvg.in/api?id=Suksham-sharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 - 🔭 I’m currently working on **building my dreams**
