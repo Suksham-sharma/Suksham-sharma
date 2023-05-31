@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suksham</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+
 [![](https://visitcount.itsvg.in/api?id=Suksham-sharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
@@ -14,7 +15,7 @@
 
 - 💞️ I’m looking to collaborate on working on new and innovative projects.
 
-- 📫 How to reach me @sukshamever@gmail.com // Linkdein Profile -  https://www.linkedin.com/in/suksham-sharma/
+- 📫 How to reach me @sukshamever@gmail.com 
 
 - ⚡ Fun fact **Always ready to work**
 
