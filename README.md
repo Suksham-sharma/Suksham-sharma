@@ -4,13 +4,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=Suksham-sharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
+# About Me:
 
-- 🌱 I’m currently learning **Devops,along with How to build scalable Backend Solutions**
-
-- 💬 Ask me about **Development, cool stuff and Startups**
-
-- 💞️ I’m looking to collaborate on working on new and innovative projects.
+- 🌱 I’m currently learning **Devops, Web3 along with How to build scalable Backend Solutions**
 
 - 📫 How to reach me @sukshamever@gmail.com 
 
