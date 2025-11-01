@@ -6,17 +6,13 @@
 
 # About Me:
 
+
 - 🌱 I’m currently learning **Devops, Web3 along with How to build scalable Backend Solutions**
 
 - 📫 How to reach me @sukshamever@gmail.com 
 
-
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suksham-sharma) 
-
 # Tech Stack:
-- MERN / NestJs 
+- MERN / NestJs
 - AWS
 - Devops
 
